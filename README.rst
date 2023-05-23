@@ -80,3 +80,5 @@ Hikyuu Quant Framework是一款基于C++/Python的开源量化交易研究框架
 .. image:: https://api.star-history.com/svg?repos=fasiondog/hikyuu&type=Date
     :target: https://star-history.com/#fasiondog/hikyuu&Date
     :alt: Star History Chart
+
+ceshi ceshi ceshi
